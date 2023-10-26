@@ -1,6 +1,15 @@
-.corpo-conteudo{
+.Cabecalho{
     background-color: brown;
     color: white;
+}
+.principal{
+    background-color: grey;
+    color: antiquewhite;
+}
+.rodape{
+    background-color: black;
+    color: beige;
+    text-align: center;
 }
 #carmo{
     width: 400px;
